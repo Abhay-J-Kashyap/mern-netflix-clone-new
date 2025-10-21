@@ -5,15 +5,15 @@ const Footer = () => {
         <p className="text-balance text-center text-sm leading-loose text-muted-foreground md:text-left">
           Built by{' '}
           <a
-            href="https://github.com/Diivvuu"
+            href="https://github.com/Abhay-J-Kashyap"
             target="_blank"
             className="font-medium underline underline-offset-4"
           >
-            Divu
+            Abhay J Kashyap
           </a>
           . The source code is available on{' '}
           <a
-            href="https://github.com/Diivvuu/mern-netflix-clone"
+            href="https://github.com/Abhay-J-Kashyap/mern-netflix-clone-new"
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
