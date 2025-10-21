@@ -9,11 +9,6 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
 - [API Endpoints](#api-endpoints)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
@@ -30,9 +25,9 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 
 ## Screenshots
 
-![Homepage]()
-![Movie Details]()
-![TV Details]()
+![Homepage](./Homepage.png)
+![Movie Details](./search.png)
+![Search History](./history.png)
 
 ## Technologies Used
 
