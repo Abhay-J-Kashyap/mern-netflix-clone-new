@@ -11,7 +11,6 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 - [Technologies Used](#technologies-used)
 - [API Endpoints](#api-endpoints)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -36,6 +35,16 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JWT (JSON Web Token)
 - **Deployment**: Docker, Heroku (or your preferred service)
+
+## API Endpoints
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `POST` | `/api/auth/register` | Registers a new user. |
+| `POST` | `/api/auth/login` | Logs in an existing user and returns a JWT. |
+| `GET` | `/api/users/:id` | Gets a specific user's details (protected). |
+| `GET` | `/api/movies` | Gets a list of all movies. |
+| `POST` | `/api/movies` | Adds a new movie (admin only). |
+| `GET` | `/api/movies/random` | Gets a random movie for the "featured" section. |
 
 
 ## Folder Structure
@@ -76,5 +85,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+## Contact
+[Gmail] (abjkashyap@gmail.com)
+[Linkedin] (https://linkedin.com/abhay-j-k)
+[Leetcode] (https://leetcode.com/u/Abhay-J-Kashyap/)
+[Hackerrank] (https://www.hackerrank.com/profile/abjkashyap)
 
 
