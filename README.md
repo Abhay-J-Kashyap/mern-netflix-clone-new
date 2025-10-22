@@ -48,7 +48,8 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 
 
 ## Folder Structure
-'''mern-netflix-clone/
+```
+mern-netflix-clone/
 ├── .vscode/          # VS Code editor configuration
 ├── backend/          # Contains all server-side code (Node.js, Express, MongoDB)
 ├── frontend/         # Contains all client-side code (React.js)
@@ -60,7 +61,8 @@ Welcome to the **Netflix Clone** project! This is a fully-functional web applica
 ├── package-lock.json # NPM dependency lock file (likely for the backend)
 ├── package.json      # NPM package details (likely for the backend)
 ├── screenshot-for-readme.png # Screenshot asset for README
-└── search.png        # Screenshot asset for README'''
+└── search.png        # Screenshot asset for README
+```
 
 
 ## License
