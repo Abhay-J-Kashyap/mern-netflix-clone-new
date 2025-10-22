@@ -90,9 +90,9 @@ SOFTWARE.
 
 
 ## Contact
--[Gmail]-(abjkashyap@gmail.com).
--[Linkedin]-(https://linkedin.com/abhay-j-k).
--[Leetcode]-(https://leetcode.com/u/Abhay-J-Kashyap/).
--[Hackerrank]-(https://www.hackerrank.com/profile/abjkashyap).
+-[Gmail] - (abjkashyap@gmail.com)<br>
+-[Linkedin] - (https://linkedin.com/abhay-j-k)<br>
+-[Leetcode] - (https://leetcode.com/u/Abhay-J-Kashyap/)<br>
+-[Hackerrank] - (https://www.hackerrank.com/profile/abjkashyap)<br>
 
 
